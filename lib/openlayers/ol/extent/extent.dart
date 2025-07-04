@@ -1,0 +1,21 @@
+// Library file for extent
+export 'applytransform.dart';
+export 'boundingextent.dart';
+export 'buffer.dart';
+export 'containscoordinate.dart';
+export 'containsextent.dart';
+export 'containsxy.dart';
+export 'createempty.dart';
+export 'equals.dart';
+export 'extend.dart';
+export 'getbottomleft.dart';
+export 'getbottomright.dart';
+export 'getcenter.dart';
+export 'getheight.dart';
+export 'getintersection.dart';
+export 'getsize.dart';
+export 'gettopleft.dart';
+export 'gettopright.dart';
+export 'getwidth.dart';
+export 'intersects.dart';
+export 'isempty.dart';
