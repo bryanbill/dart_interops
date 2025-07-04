@@ -20,7 +20,7 @@ Add this package as a dependency in your `pubspec.yaml`:
 dependencies:
   dart_interops:
     git:
-      url: https://github.com/brianmondi/dart_interops.git
+      url: https://github.com/bryanbill/dart_interops.git
 ```
 
 Or use the published version from pub.dev if available.
