@@ -2,6 +2,8 @@
 
 import 'dart:js_interop';
 
-@JS('createPdf')
-external JSObject createPdf(JSObject documentDefinitions, JSObject? tableLayouts, JSObject? fonts, JSObject? vfs);
+import '../../interfaces/tcreatedpdf.dart';
 
+@JS('createPdf')
+external TCreatedPdf createPdf(JSObject documentDefinitions,
+    JSObject? tableLayouts, JSObject? fonts, JSObject? vfs);

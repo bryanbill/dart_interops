@@ -1,5 +1,6 @@
 // Library file for interfaces
 export './alignment.dart';
+export './bufferoptions.dart';
 export './canvaselement.dart';
 export './canvaslinecap.dart';
 export './canvaslinejoin.dart';
@@ -30,6 +31,7 @@ export './size.dart';
 export './stylereference.dart';
 export './tablecell.dart';
 export './tablelayout.dart';
+export './tcreatedpdf.dart';
 export './unorderedlistelement.dart';
 export './unorderedlisttype.dart';
 export './verticaldynamiccelllayout.dart';
