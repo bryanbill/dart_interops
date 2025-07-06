@@ -1,5 +1,8 @@
-## 0.0.3
+## 0.0.4
 
+- Dartify PdfMake interop classes
+
+## 0.0.3
 - Dartify ReactDOM interop classes
 
 ## 0.0.2
