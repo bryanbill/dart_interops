@@ -83,5 +83,5 @@ See the `/lib` directory for available interop modules.
 ## Additional information
 
 - **Read-only:** This package is not intended for direct contribution. All changes must be made via the Dartify tool.
-- **Issues:** For bug reports or feature requests, please open an issue in the [Dartify repository](https://github.com/brianmondi/dartify).
+- **Issues:** For bug reports or feature requests, please open an issue in the [Dartify repository](https://github.com/bryanbill/dartify).
 - **More info:** See the Dartify documentation for details on generating your own interops.
